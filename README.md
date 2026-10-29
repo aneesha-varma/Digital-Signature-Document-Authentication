@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Signature-Based Document Authentication System
 
 ## Project Overview
@@ -147,3 +148,7 @@ Aneesha Varma.
 ## License
 
 This project is available for educational purposes.
+=======
+# Digital-Signature-Document-Authentication
+A Python-based document authentication system using RSA digital signatures and SHA-256 hashing to verify document integrity and detect tampering.
+>>>>>>> 6d1c76b32699d64a91a86e261101962f96f152e8
