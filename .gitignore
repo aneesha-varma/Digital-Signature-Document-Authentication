@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Private keys and generated cryptographic material
+keys/*
+!keys/.gitkeep
+*.sig.json
+
+# Uploaded documents and generated files
+uploads/*
+!uploads/.gitkeep
+signatures/*
+!signatures/.gitkeep
+
+# VS Code
+.vscode/
